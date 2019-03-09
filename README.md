@@ -8,3 +8,12 @@ spinlocking, but I don't think I could have done much better with without delvin
 
 Even so, this project has been instrumental for deepening my understanding of the problem of thread synchronizations and of the basic 
 solutions for it. 
+
+
+
+
+TODO:
+      
+      test the implementation with the POSIX test suite
+      
+      find a better algorithm for mutexes that doesn't involve spinlocking
