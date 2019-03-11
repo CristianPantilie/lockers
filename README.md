@@ -13,9 +13,9 @@ solutions for it.
 
 
 TODO:
-      - test the implementation with the POSIX test suite
       
       - find a better algorithm for mutexes that doesn't involve spinlocking
+      - test the implementation with the POSIX test suite
 
 
 
