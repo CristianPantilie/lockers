@@ -13,7 +13,15 @@ solutions for it.
 
 
 TODO:
+      - test the implementation with the POSIX test suite
       
-      test the implementation with the POSIX test suite
-      
-      find a better algorithm for mutexes that doesn't involve spinlocking
+      - find a better algorithm for mutexes that doesn't involve spinlocking
+
+
+
+Resources used:
+
+      - Operating Systems Essentials, Silberschatz, Galvin, Gagne
+      - Advanced Linux Programming, Mark Mitchell
+      - Concurrent Programming, Michel Raynal
+      - GNU library functions manual and glibc 
