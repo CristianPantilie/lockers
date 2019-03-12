@@ -1,6 +1,6 @@
 My implementation of synchronization objects for Linux POSIX threads. It includes:
 - mutex
-- sempahore
+- semaphore
 - rwlock 
 
 They make use of the atomic operations included in the stdatomic library. They are far from an optimal implementation, as they involve
